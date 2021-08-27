@@ -1,0 +1,19 @@
+#Paragrafo1{
+    font-style:italic;
+}
+
+#Paragrafo2{
+    font-style:unset;
+}
+
+#Paragrafo3{
+    font-style:initial;
+}
+
+#Paragrafo4{
+    font-style:inherit;
+}
+
+#Paragrafo5{
+    font-style:oblique;
+}
